@@ -20,7 +20,7 @@ if(!isset($_SESSION['email'])) {
 </head>
 <body>
     <div class="container">
-        <h1 class="my-4">Aplikasi Perpustakaan</h1>
+        <h1 class="my-4">Aplikasi Perpustakaan Terbaru</h1>
         <a class="btn btn-primary" href="./buku.php"> Lihat Daftar Buku </a>
         <a class="btn btn-primary" href="./staff.php"> Lihat Daftar Staff </a>
         <form class="mt-4" method="POST" action="logoutProcess.php">
